@@ -3,7 +3,7 @@ fivem mod higly configurable to teleport players
 
 
 ## Français
-EZTeleports est un mod pour FiveM permettant aux administrateurs de créer des points de téléportation personnalisés sur leurs serveurs. Ce mod est hautement configurable et peut être adapté à différents frameworks comme ESX ou OX.
+EZTeleport est un mod pour FiveM permettant aux administrateurs de créer des points de téléportation personnalisés sur leurs serveurs. Ce mod est hautement configurable et peut être adapté à différents frameworks comme ESX ou OX.
 
 ### Configuration
 Modifiez le fichier `Config.lua` pour ajuster les paramètres suivants :
@@ -15,11 +15,11 @@ Modifiez le fichier `Config.lua` pour ajuster les paramètres suivants :
 
 ### Installation
 1. Téléchargez et placez le mod dans votre dossier `resources`.
-2. Ajoutez `ensure EZTeleports` à votre fichier `server.cfg`.
+2. Ajoutez `ensure EZTeleport` à votre fichier `server.cfg`.
 3. Configurez le fichier `Config.lua` selon vos besoins.
 
 ## English
-EZTeleports is a FiveM mod that allows administrators to create customized teleportation points on their servers. This mod is highly configurable and can be adapted for different frameworks like ESX or OX.
+EZTeleport is a FiveM mod that allows administrators to create customized teleportation points on their servers. This mod is highly configurable and can be adapted for different frameworks like ESX or OX.
 
 ### Configuration
 Edit the `Config.lua` file to adjust the following settings:
@@ -31,11 +31,11 @@ Edit the `Config.lua` file to adjust the following settings:
 
 ### Installation
 1. Download and place the mod in your `resources` folder.
-2. Add `ensure EZTeleports` to your `server.cfg`.
+2. Add `ensure EZTeleport` to your `server.cfg`.
 3. Configure the `Config.lua` file as needed.
 
 ## Italiano
-EZTeleports è un mod per FiveM che permette agli amministratori di creare punti di teletrasporto personalizzati sui loro server. Questo mod è altamente configurabile e può essere adattato per diversi framework come ESX o OX.
+EZTeleport è un mod per FiveM che permette agli amministratori di creare punti di teletrasporto personalizzati sui loro server. Questo mod è altamente configurabile e può essere adattato per diversi framework come ESX o OX.
 
 ### Configurazione
 Modifica il file `Config.lua` per aggiustare le seguenti impostazioni:
@@ -47,5 +47,5 @@ Modifica il file `Config.lua` per aggiustare le seguenti impostazioni:
 
 ### Installazione
 1. Scarica e posiziona il mod nella tua cartella `resources`.
-2. Aggiungi `ensure EZTeleports` al tuo file `server.cfg`.
+2. Aggiungi `ensure EZTeleport` al tuo file `server.cfg`.
 3. Configura il file `Config.lua` secondo le tue necessità.
