@@ -111,3 +111,7 @@ Modifica il file `Config.lua` per aggiustare le seguenti impostazioni:
 4. **Modifica di `sv_version_check.lua`:**
     - Il controllo della versione ora avviene una volta all'avvio del mod invece di essere eseguito ogni 5 secondi.
     - I messaggi di controllo della versione vengono visualizzati nella console per indicare se l'utente sta utilizzando l'ultima versione o se è disponibile una nuova versione.
+
+## Remerciements 
+
+Un grand merci à Space V et Grenouille pour les conseils et les tests
